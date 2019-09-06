@@ -9,6 +9,8 @@
 	
 */
 #include<stdlib.h>
+#include<conio.h>
+
 int a[10],top=-1,etop=10,s,x;
 main()
 {
@@ -34,7 +36,7 @@ main()
 					break;
 			case 3: puts("Enter the stack value");
 					scanf("%d",&s);
-					list(s);
+					list(s);  /// list mention please
 					break;
 			case 4: exit(0);
 			default: puts("Invalid input! Please valid choice");						
@@ -107,7 +109,7 @@ pop(s)
 	}
 }
 
-list(s)
+list(s)   /// what is list???????
 {
 	if(s==1)
 	{
