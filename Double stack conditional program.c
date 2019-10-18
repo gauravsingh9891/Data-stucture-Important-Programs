@@ -1,5 +1,5 @@
 /*
-	IGNOU EXAM base impotant question !
+	IGNOU EXAM base impotant question !!!
 	____________________________________________________________________________________________________________________________	
 	
 	qns.   wirter a program to impliment if stack such that it calls a function push(s,x) ,where as 's'	is stack value and 'x'		(10 Marks)
