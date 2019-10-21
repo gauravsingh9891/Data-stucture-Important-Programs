@@ -4,7 +4,7 @@
 	
 	qns.   wirter a program to impliment if stack such that it calls a function push(s,x) ,where as 's'	is stack value and 'x'		(10 Marks)
 		   is an element to push if s=1 ,then push the element of left side and if s=2 then push the element to the right side.
-		   similiraly is calls pop  of 's' and list of s. 
+		   similiraly is calls pop  of 's' and list of s.  [10 Marks]
 	____________________________________________________________________________________________________________________________
 	
 */
